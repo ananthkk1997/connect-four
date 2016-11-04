@@ -1,9 +1,9 @@
 # Connect Four
-A Libgdx application to play Connect Four with a simple defense-playing AI
+A LibGDX Desktop application to play Connect Four with a simple defense-playing AI
 
 
 ## About
-This game was made using the Libgdx Graphics library for an internship coding challenge. Intern candidates were given a spec 
+This game was made using the LibGDX Graphics library for an internship coding challenge. Intern candidates were given a spec 
 of required features that the application must have and 4 days to construct the game. There are two screens in this project:
 
 1. **MainScreen** - Here, I make an API call to OpenWeatherMap API to display the current weather in San Francisco. I needed include Buttons and Labels to display my proficiency in Libgdx to my interviewers. I added the background and computer screen to make the UI more appealing.
@@ -12,7 +12,7 @@ of required features that the application must have and 4 days to construct the 
 
 
 ## Implementation
-To manage all the assets, I created an Assets object to handle LibGdx's method of loading / getting game assets. I partitioned the game logic into two separate classes to abstract the game itself away from the controller, GameScreen:
+To manage all the assets, I created an Assets object to handle LibGDX's method of loading / getting game assets. I partitioned the game logic into two separate classes to abstract the game itself away from the controller, GameScreen:
 
 1. **GameBoard** - I isolated the game logic into the class GameBoard. This utlizes a 2D array to model the board, and self-sufficiently monitors the game status, adds pieces, and all other game logistics. 
 
@@ -20,7 +20,7 @@ To manage all the assets, I created an Assets object to handle LibGdx's method o
 
 
 ## Running the Game
-To run the game, please see the executables folder in this project's home directory and download the correct version for your OS.
+To run the game, please navitate to /executables/YOUR-OS folder in this project's home directory to download the correct version for your OS. Refer to the directory's README.txt for execution instructions.
 
 
 ## Screenshots
