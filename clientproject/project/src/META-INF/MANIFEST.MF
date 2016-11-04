@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: gdx-backend-lwjgl-natives.jar gdx.jar json-lib-2.4-jdk15.j
+ ar gdx-audio.jar gdx-audio-natives.jar gdx-openal.jar gdx-backend-lwj
+ gl.jar gdx-natives.jar gdx-jnigen.jar java-json.jar
+Main-Class: com.pennypop.project.ProjectApplication
+

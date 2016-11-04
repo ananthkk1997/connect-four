@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/project_jar</output-path>
+    <root id="root">
+      <element id="archive" name="project.jar">
+        <element id="module-output" name="project" />
+      </element>
+      <element id="library" level="module" name="gdx-backend-lwjgl-natives.jar" module-name="project" />
+      <element id="library" level="module" name="gdx.jar" module-name="project" />
+      <element id="library" level="module" name="json-lib-2.4-jdk15.jar" module-name="project" />
+      <element id="library" level="module" name="gdx-audio.jar" module-name="project" />
+      <element id="library" level="module" name="gdx-audio-natives.jar" module-name="project" />
+      <element id="library" level="module" name="gdx-openal.jar" module-name="project" />
+      <element id="library" level="module" name="gdx-backend-lwjgl.jar" module-name="project" />
+      <element id="library" level="module" name="gdx-natives.jar" module-name="project" />
+      <element id="library" level="module" name="gdx-jnigen.jar" module-name="project" />
+      <element id="library" level="module" name="java-json.jar" module-name="project" />
+    </root>
+  </artifact>
+</component>
