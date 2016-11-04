@@ -1,6 +1,8 @@
 # Connect Four
 A Libgdx application to play Connect Four with a simple defense-playing AI
 
+
+## About
 This game was made using the Libgdx Graphics library for an internship coding challenge. Intern candidates were given a spec 
 of required features that the application must have and 4 days to construct the game. There are two screens in this project:
 
