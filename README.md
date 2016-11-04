@@ -16,8 +16,10 @@ To manage all the assets, I created an Assets object to handle LibGdx's method o
 
 2. **GameOptions** - This object stores all of the game settings in a single location. By changing a few variables in GameOptions before running the application, I can manipulate the board size, the number in a row needed to win, and toggle the AI mode. All calculations and game logic in the other classes are determined by the information stored in applicatons single instance of GameOptions.
 
+
 ## Running the Game
 To run the game, please see the executables folder in this project's home directory and download the correct version for your OS.
+
 
 ## Screenshots
 ![alt text](/screenshots/main-screen.png?raw=true "Main Screen")
