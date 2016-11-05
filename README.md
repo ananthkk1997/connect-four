@@ -20,7 +20,7 @@ To manage all the assets, I created an Assets object to handle LibGDX's method o
 
 
 ## Running the Game
-To run the game, please navitate to /executables/YOUR-OS folder in this project's home directory to download the correct version for your OS. Refer to the directory's README.txt for execution instructions.
+To run the game, please navitate to clientproject/out/artifacts/project_jar/YOUR-OS folder in this project's home directory to download the correct version for your OS. Refer to that directory's README.txt for execution instructions.
 
 
 ## Screenshots
